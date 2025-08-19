@@ -1,0 +1,4 @@
+1. Otvori F12
+2. Idi na console
+3. allow pasting
+4. emergencyAdmin()
